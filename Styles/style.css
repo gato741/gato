@@ -1,0 +1,51 @@
+body {
+    background-color: azure;
+    margin: top;
+    padding-top: 160px
+}
+
+header {
+    background-color: #333333;
+    position: fixed;
+    width: 100%;
+    padding: 20px;
+    text-align: center;
+    top: 0;
+    left: 0;
+    z-index: 10;
+    box-sizing: border-box;
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    color: azure;
+}
+
+h2 {
+    font-family: 'Roboto', sans-serif;
+    color: azure;
+}
+
+h3 {
+    font-family: 'Roboto', sans-serif;
+    color: #333333;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    color: #333333;
+}
+
+li{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    color: #333333;
+}
+
+a {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    text-decoration: none;
+    color: #333333
+}
