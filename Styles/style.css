@@ -28,24 +28,28 @@ h2 {
 
 h3 {
     font-family: 'Roboto', sans-serif;
+    font-size: 20px;
     color: #333333;
 }
 
 p {
     font-family: 'Roboto', sans-serif;
+    font-size: 18px;
     font-weight: 400;
     color: #333333;
 }
 
 li{
     font-family: 'Roboto', sans-serif;
+    font-size: 18px;
     font-weight: 400;
     color: #333333;
 }
 
 a {
     font-family: 'Roboto', sans-serif;
+    font-size: 18px;
     font-weight: 400;
     text-decoration: none;
-    color: #333333
+    color: #333333;
 }
